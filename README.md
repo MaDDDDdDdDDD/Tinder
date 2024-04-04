@@ -1,0 +1,1 @@
+The Tinder Clone project aims to replicate the core functionalities of the Tinder app, allowing users to swipe through profiles, match with others, and chat with their matches. It provides a simplified version of the Tinder user experience, suitable for learning and practicing web development skills.
